@@ -1,6 +1,6 @@
 # Laboratório de Games e Narrativas Gráficas
 
--  Professor: Bernardo Bueno
+-  Professor: Bernardo Bueno e Janaína Baladão
 -  Código: 12297-04
 -  Semestre: 2023/2
--  Nota: ...
+-  Nota: 9.7
